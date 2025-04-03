@@ -1,0 +1,17 @@
+[
+    {
+        "author": "Mary",
+        "availability": true,
+        "title": "Harry Potter"
+    },
+    {
+        "author": "Mary",
+        "availability": true,
+        "title": "Avengers"
+    },
+    {
+        "author": "DC comics",
+        "availability": true,
+        "title": "Superman"
+    }
+]
